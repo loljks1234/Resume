@@ -1,4 +1,4 @@
 Resume
 ======
 
-The Reseumé
+The Resumé
